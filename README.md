@@ -13,3 +13,8 @@ assignments
     . genrater function, iterator, iterable
     
 3:- Map, Reduce, Filter function with lambda keyword
+
+4:- Oop's concept
+    . how to make class and object
+    . all four main piller of oops
+    . self, __init__
