@@ -18,3 +18,5 @@ assignments
     . how to make class and object
     . all four main piller of oops
     . self, __init__
+5:- some theoretical python question
+6:- Python weekly programing question
