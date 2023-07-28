@@ -19,9 +19,13 @@ assignments
     . all four main piller of oops
     . self, __init__
 5:- some theoretical python question
+
 6:- Python weekly programing question
+
 7:- some python theorytical question weekl_python_assignment
     and python programing question week1_python_programing
     and more python advance python question python_programing 1 and 2
+    
 8:- oops theorytical question the oop's programing question 
-9:-
+
+9:-files:- learn how to read the file, how to write the file, read(), readline(), write(), writeline()
