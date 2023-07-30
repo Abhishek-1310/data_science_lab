@@ -29,3 +29,7 @@ assignments
 8:- oops theorytical question the oop's programing question 
 
 9:-files:- learn how to read the file, how to write the file, read(), readline(), write(), writeline()
+
+10:-we have learn exception handling and how to create custom exception in python
+
+11:- some exception handling theoretical questions
