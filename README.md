@@ -33,3 +33,5 @@ assignments
 10:-we have learn exception handling and how to create custom exception in python
 
 11:- some exception handling theoretical questions
+
+12:- Multithreading, learned how to run multi threads at once in one program
