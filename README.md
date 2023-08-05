@@ -28,10 +28,12 @@ assignments
     
 8:- oops theorytical question the oop's programing question 
 
-9:-files:- learn how to read the file, how to write the file, read(), readline(), write(), writeline()
+9:- files:- learn how to read the file, how to write the file, read(), readline(), write(), writeline()
 
-10:-we have learn exception handling and how to create custom exception in python
+10:- we have learn exception handling and how to create custom exception in python
 
 11:- some exception handling theoretical questions
 
 12:- Multithreading, learned how to run multi threads at once in one program
+
+13:- SQL_Databases:= learn how to make databases connection and import library and execute query
