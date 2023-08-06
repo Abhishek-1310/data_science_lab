@@ -37,3 +37,5 @@ assignments
 12:- Multithreading, learned how to run multi threads at once in one program
 
 13:- SQL_Databases:= learn how to make databases connection and import library and execute query
+
+14:- MongoDB:- learned how to connect mongodb with python and perform lots of operations like find, insert, delete etc
