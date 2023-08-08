@@ -39,3 +39,5 @@ assignments
 13:- SQL_Databases:= learn how to make databases connection and import library and execute query
 
 14:- MongoDB:- learned how to connect mongodb with python and perform lots of operations like find, insert, delete etc
+
+15:- Web Api:- learned about api , web api difference between them and there priciple
