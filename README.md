@@ -41,3 +41,5 @@ assignments
 14:- MongoDB:- learned how to connect mongodb with python and perform lots of operations like find, insert, delete etc
 
 15:- Web Api:- learned about api , web api difference between them and there priciple
+
+16:- Flask:- learned how to make router in flask and how to display and render data 
