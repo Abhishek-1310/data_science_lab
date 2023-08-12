@@ -43,3 +43,5 @@ assignments
 15:- Web Api:- learned about api , web api difference between them and there priciple
 
 16:- Flask:- learned how to make router in flask and how to display and render data 
+
+17:- flask:- learn get, post and redirect and how to use postman
