@@ -45,3 +45,5 @@ assignments
 16:- Flask:- learned how to make router in flask and how to display and render data 
 
 17:- flask:- learn get, post and redirect and how to use postman
+
+18:- Web Scraping:- i have leran how to scrap the data from web and use it.
