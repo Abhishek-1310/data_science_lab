@@ -47,3 +47,5 @@ assignments
 17:- flask:- learn get, post and redirect and how to use postman
 
 18:- Web Scraping:- i have leran how to scrap the data from web and use it.
+
+19:- Pandas basic:- learn about basic things about pandas
